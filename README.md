@@ -90,6 +90,7 @@ brew install qt
 
 
 ### Problem 2:
+
 ```
 psql: could not connect to server: No such file or directory
 Is the server running locally and accepting
